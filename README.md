@@ -6,5 +6,5 @@ and that I'll finish someday
 - **Bar** - Waybar
 
 
-![1](https://github.com/Songbirdwhosing/EgLaptopDotfiles/blob/main/wallpapers/GreenGlassy.jpg)
+![1](https://github.com/Songbirdwhosing/EgLaptopDotfiles/blob/main/assets/screenshot_2.png)
 
