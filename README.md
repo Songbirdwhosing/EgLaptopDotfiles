@@ -5,3 +5,6 @@ and that I'll finish someday
 - **Terminal** - alacritty
 - **Bar** - Waybar
 
+
+on
+
