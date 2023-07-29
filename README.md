@@ -11,6 +11,6 @@ and that I'll finish someday
 
 # MyApps
 ```bash
-    yay -S --needed visual-studio-code-bin gimp qbittorrent 
+    yay -S --needed visual-studio-code-bin gimp qbittorrent foliate gimp obsidian telegram-desktop
 ```
 
