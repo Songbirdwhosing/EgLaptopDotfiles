@@ -6,5 +6,5 @@ and that I'll finish someday
 - **Bar** - Waybar
 
 
-on
+![1](https://github.com/Songbirdwhosing/EgLaptopDotfiles/blob/main/wallpapers/GreenGlassy.jpg)
 
