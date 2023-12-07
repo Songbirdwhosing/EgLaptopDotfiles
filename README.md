@@ -1,4 +1,4 @@
-# My minimalistic sway configuration that just works
+# My sway configuration that just works
 and that I'll finish someday
 
 - **OS** - Manjaro
