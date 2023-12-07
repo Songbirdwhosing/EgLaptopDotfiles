@@ -6,7 +6,7 @@ and that I'll finish someday
 - **Bar** - Waybar
 
 
-![1](https://github.com/Songbirdwhosing/EgLaptopDotfiles/blob/main/assets/swappy-20230810_154040.png)
+![1](https://github.com/Songbirdwhosing/EgLaptopDotfiles/blob/main/assets/swappy-20231207_131937.png)
 
 
 # MyApps
